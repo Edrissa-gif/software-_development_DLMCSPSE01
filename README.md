@@ -29,7 +29,7 @@ Prerequisites
 
 1. Open a browser and go to:
    `http://localhost/phpmyadmin`
-2. Click **Import**, choose `tempsclothing.sql` file from the project folder
+2. Click **Import**, choose `database.sql` file from the project folder
 3. Click **Go** to import the database
 
  You will now have a database named `tempsclothing` in phpMyAdmin
